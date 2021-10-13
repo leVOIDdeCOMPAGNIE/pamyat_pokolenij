@@ -18,6 +18,9 @@
 @import url(../blocks/news/news.css);
 @import url(../blocks/projects/projects.css);
 @import url(../blocks/map/map.css);
+@import url(../blocks/map/__title/map__title.css);
+@import url(../blocks/map/__subtitle/map__subtitle.css);
+@import url(../blocks/map/__image-map/map__image-map.css);
 @import url(../blocks/foundation/foundation.css);
 @import url(../blocks/partnerships/partnerships.css);
 @import url(../blocks/footer/footer.css);
