@@ -1,0 +1,16 @@
+.foundation__title {
+  font-size: 47px;
+  font-weight: 700;
+  line-height: 50px;
+  color: #FEFEFE;
+  text-transform: uppercase;
+  margin: 0 0 15px 7px;
+}
+
+@media screen and (max-width: 640px) {
+  .foundation__title {
+    font-size: 37px;
+    line-height: 45px;
+    margin: 0 0 9px 5px;
+  }
+}

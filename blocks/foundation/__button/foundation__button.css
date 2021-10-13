@@ -1,0 +1,18 @@
+.foundation__button {
+  border-radius: 20px;
+  padding: 8px 15px;
+  background-color: #9A34A8;
+  border: #9A34A8 solid 2px;
+  font-size: 14px;
+  letter-spacing: 0.7px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #FEFEFE;
+  text-decoration: none;
+  align-self: flex-end;
+}
+
+.foundation__button:hover {
+  background-color: transparent;
+  border: #FEFEFE solid 2px;
+}

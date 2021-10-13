@@ -1,0 +1,16 @@
+.foundation__content {
+  display: flex;
+  flex-direction: column;
+  padding-top: 54.37px;
+  padding-bottom: 72px;
+  min-width: 363px;
+}
+
+@media screen and (max-width: 640px) {
+  .foundation__content {
+    padding-top: 11px;
+    padding-bottom: 72px;
+    max-width: 300px;
+    min-width: 300px;
+  }
+}

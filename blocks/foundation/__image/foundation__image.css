@@ -1,0 +1,14 @@
+.foundation__image {
+  width: 190.32px;
+  height: 234.27px;
+  margin-top: -2px;
+  margin-right: 80px;
+}
+
+@media screen and (max-width: 640px) {
+  .foundation__image {
+    width: 150px;
+    height: 220px;
+    margin-right: 38px;
+  }
+}
