@@ -22,5 +22,15 @@
 @import url(../blocks/map/__subtitle/map__subtitle.css);
 @import url(../blocks/map/__image-map/map__image-map.css);
 @import url(../blocks/foundation/foundation.css);
-@import url(../blocks/partnerships/partnerships.css);
+@import url(../blocks/partners/partners.css);
+@import url(../blocks/partners/__title/partners__title.css);
+@import url(../blocks/partners/__subtitle/partners__subtitle.css);
+@import url(../blocks/partners/__pazzl/partners__pazzl.css);
+@import url(../blocks/partners/__slider/partners__slider.css);
+@import url(../blocks/partners/__slider/_items/partners__slider_items.css);
+@import url(../blocks/partners/__slider/_item/partners__slider_item.css);
+@import url(../blocks/partners/__slider/_logo/partners__slider_logo.css);
+@import url(../blocks/partners/__slider/_button/partners__slider_button.css);
+@import url(../blocks/partners/__slider/_button_left/partners__slider_button_left.css);
+@import url(../blocks/partners/__slider/_button_right/partners__slider_button_right.css);
 @import url(../blocks/footer/footer.css);
