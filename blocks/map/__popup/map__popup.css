@@ -1,0 +1,12 @@
+.map__popup {
+  display: block;
+  width: 132px;
+  height: 78px;
+  border: solid 4px #00926f;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  padding: 0 15px;
+}
