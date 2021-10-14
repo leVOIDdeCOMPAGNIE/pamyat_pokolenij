@@ -1,0 +1,7 @@
+.navigation-card__label {
+    margin-right: 10px;
+}
+
+.navigation-card__label:last-child {
+    margin-right: 0;
+}
