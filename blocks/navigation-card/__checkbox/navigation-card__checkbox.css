@@ -1,0 +1,7 @@
+.navigation-card__checkbox {
+    position: absolute;
+    align-self: flex-end;
+    margin: auto;
+    bottom: 30px;
+    left: calc(50% - 28px)
+}
