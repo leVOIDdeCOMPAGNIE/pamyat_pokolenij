@@ -28,8 +28,8 @@
 @import url(../blocks/map/map.css);
 @import url(../blocks/map/__title/map__title.css);
 @import url(../blocks/map/__subtitle/map__subtitle.css);
-@import url(../blocks/map/__image-map/map__image-map.css);
-@import url(../blocks/map/__point/map__point.css);
+@import url(../blocks/map/__map-container/map__map-container.css);
+@import url(../blocks/map/__region/map__region.css);
 @import url(../blocks/map/__popup/map__popup.css);
 @import url(../blocks/map/__popup-content/map__popup-content.css);
 @import url(../blocks/foundation/foundation.css);
