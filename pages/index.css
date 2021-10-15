@@ -38,8 +38,10 @@
 @import url(../blocks/map/__title/map__title.css);
 @import url(../blocks/map/__subtitle/map__subtitle.css);
 @import url(../blocks/map/__map-container/map__map-container.css);
+@import url(../blocks/map/__svg-container/map__svg-container.css);
 @import url(../blocks/map/__region/map__region.css);
 @import url(../blocks/map/__popup/map__popup.css);
+@import url(../blocks/map/__popup/_opened/map__popup_opened.css);
 @import url(../blocks/map/__popup-content/map__popup-content.css);
 @import url(../blocks/foundation/foundation.css);
 @import url(../blocks/foundation/__content/foundation__content.css);
@@ -74,4 +76,3 @@
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
 @import url(../blocks/footer/__img-up/footer__img-up.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
-
