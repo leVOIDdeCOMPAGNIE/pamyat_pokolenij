@@ -13,11 +13,16 @@
   }
 }
 
+@media screen and (max-width: 560px) {
+  .partners__pazzl {   
+    left: 82px;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .partners__pazzl {
     width: 31px;
     height: 36px;
-    bottom: 171px;
-    left: 82px;
+    bottom: 171px;    
   }
 }
