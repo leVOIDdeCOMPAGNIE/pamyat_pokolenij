@@ -1,3 +1,6 @@
 .footer{
-    background-color: crimson;
+  background-color: #6D097A;
+  min-height: 227px;
+  display: flex;
+  flex-direction: column;
 }
