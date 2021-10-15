@@ -1,3 +1,7 @@
-.newCard__content{
-    
+.newCard__image{
+    width: 100%;
+    margin: 0;
+    margin-bottom: 10px;
+    padding: 0;
+    object-fit: contain;
 }
