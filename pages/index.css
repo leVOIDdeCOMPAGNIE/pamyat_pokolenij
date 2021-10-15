@@ -14,7 +14,15 @@
 @import url(../blocks/intro/__description/intro__description.css);
 @import url(../blocks/intro/__description-link/intro__description-link.css);
 @import url(../blocks/intro/__photo/intro__photo.css);
+
 @import url(../blocks/about/about.css);
+@import url(../blocks/about/__description-holder/about__description-holder.css);
+@import url(../blocks/about/__title/about__title.css);
+@import url(../blocks/about/__subtitle/about__subtitle.css);
+@import url(../blocks/about/__text-holder/about__text-holder.css);
+@import url(../blocks/about/__text-subject/about__text-subject.css);
+@import url(../blocks/about/__text/about__text.css);
+
 @import url(../blocks/news/news.css);
 @import url(../blocks/news/__title/news__title.css);
 @import url(../blocks/news/__link/news__link.css);
