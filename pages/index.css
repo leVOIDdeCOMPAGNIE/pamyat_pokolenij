@@ -20,6 +20,7 @@
 @import url(../blocks/about/__title/about__title.css);
 @import url(../blocks/about/__subtitle/about__subtitle.css);
 @import url(../blocks/about/__text-holder/about__text-holder.css);
+@import url(../blocks/about/__square/about__square.css);
 @import url(../blocks/about/__text-subject/about__text-subject.css);
 @import url(../blocks/about/__text/about__text.css);
 
