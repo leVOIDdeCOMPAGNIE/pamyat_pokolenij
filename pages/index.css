@@ -24,7 +24,27 @@
 @import url(../blocks/newCard/__title/newCard__title.css);
 @import url(../blocks/newCard/__content/newCard__content.css);
 @import url(../blocks/newCard/__link/newCard__link.css);
+
+@import url(../blocks/slider/slider.css);
+@import url(../blocks/slider/__button/slider__button.css);
+@import url(../blocks/slider/__item/slider__item.css);
+@import url(../blocks/slider/__items/slider__items.css);
+@import url(../blocks/slider/__item/_active/slider__item_active.css);
+@import url(../blocks/slider/__item/_disable/slider__item_disable.css);
+
 @import url(../blocks/projects/projects.css);
+@import url(../blocks/projects/__title/projects__title.css);
+@import url(../blocks/projects/__subtitle/projects__subtitle.css);
+@import url(../blocks/projects/__pazzl/_position/projects__pazzl_position_right.css);
+@import url(../blocks/projects/__pazzl/_position/projects__pazzl_position_top.css);
+@import url(../blocks/projects/__slider/projects__slider.css);
+@import url(../blocks/projects/__slider/_item/projects__slider_item.css);
+@import url(../blocks/projects/__slider/_card/projects__slider_card.css);
+@import url(../blocks/projects/__slider/_image/projects__slider_image.css);
+@import url(../blocks/projects/__slider/_title/projects__slider_title.css);
+@import url(../blocks/projects/__slider/_button/projects__slider_button.css);
+@import url(../blocks/projects/__slider/_button_left/projects__slider_button_left.css);
+@import url(../blocks/projects/__slider/_button_right/projects__slider_button_right.css);
 
 @import url(../blocks/header/navigation-card/navigation-card.css);
 @import url(../blocks/header/navigation-card/__menu/navigation-card__menu.css);
@@ -54,7 +74,6 @@
 @import url(../blocks/partners/__subtitle/partners__subtitle.css);
 @import url(../blocks/partners/__pazzl/partners__pazzl.css);
 @import url(../blocks/partners/__slider/partners__slider.css);
-@import url(../blocks/partners/__slider/_items/partners__slider_items.css);
 @import url(../blocks/partners/__slider/_item/partners__slider_item.css);
 @import url(../blocks/partners/__slider/_logo/partners__slider_logo.css);
 @import url(../blocks/partners/__slider/_button/partners__slider_button.css);
@@ -74,4 +93,3 @@
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
 @import url(../blocks/footer/__img-up/footer__img-up.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
-

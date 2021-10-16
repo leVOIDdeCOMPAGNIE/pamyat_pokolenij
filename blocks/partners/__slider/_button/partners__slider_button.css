@@ -1,12 +1,6 @@
-.partners__slider_button {
-  border: none;
+.partners__slider_button {  
   width: 11.41px;
-  height: 22.16px;
-  background-color: transparent;
-  background-size: cover;
-  align-self: center;
+  height: 22.16px;  
 }
 
-.partners__slider_button:hover {
-  cursor: pointer;
-}
+ 

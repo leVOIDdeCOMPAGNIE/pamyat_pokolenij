@@ -37,4 +37,3 @@ const pin = document.querySelector('.map__pin');
 // pin.onmouseout = function () {
 //   region.setAttribute('fill', '#9A34A8');
 // };
-
