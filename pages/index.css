@@ -20,6 +20,7 @@
 @import url(../blocks/about/__title/about__title.css);
 @import url(../blocks/about/__subtitle/about__subtitle.css);
 @import url(../blocks/about/__text-holder/about__text-holder.css);
+@import url(../blocks/about/__square/about__square.css);
 @import url(../blocks/about/__text-subject/about__text-subject.css);
 @import url(../blocks/about/__text/about__text.css);
 
@@ -41,6 +42,25 @@
 @import url(../blocks/header/logo-card/logo-card.css);
 @import url(../blocks/header/logo/logo.css);
 @import url(../blocks/header/logo-card/__pazzle/logo-card__pazzle.css);
+
+@import url(../blocks/slider/slider.css);
+@import url(../blocks/slider/__button/slider__button.css);
+@import url(../blocks/slider/__item/slider__item.css);
+@import url(../blocks/slider/__items/slider__items.css);
+
+@import url(../blocks/projects/projects.css);
+@import url(../blocks/projects/__title/projects__title.css);
+@import url(../blocks/projects/__subtitle/projects__subtitle.css);
+@import url(../blocks/projects/__pazzl/_position/projects__pazzl_position_right.css);
+@import url(../blocks/projects/__pazzl/_position/projects__pazzl_position_top.css);
+@import url(../blocks/projects/__slider/projects__slider.css);
+@import url(../blocks/projects/__slider/_item/projects__slider_item.css);
+@import url(../blocks/projects/__slider/_card/projects__slider_card.css);
+@import url(../blocks/projects/__slider/_image/projects__slider_image.css);
+@import url(../blocks/projects/__slider/_title/projects__slider_title.css);
+@import url(../blocks/projects/__slider/_button/projects__slider_button.css);
+@import url(../blocks/projects/__slider/_button_left/projects__slider_button_left.css);
+@import url(../blocks/projects/__slider/_button_right/projects__slider_button_right.css);
 
 @import url(../blocks/map/map.css);
 @import url(../blocks/map/__title/map__title.css);
@@ -64,7 +84,6 @@
 @import url(../blocks/partners/__subtitle/partners__subtitle.css);
 @import url(../blocks/partners/__pazzl/partners__pazzl.css);
 @import url(../blocks/partners/__slider/partners__slider.css);
-@import url(../blocks/partners/__slider/_items/partners__slider_items.css);
 @import url(../blocks/partners/__slider/_item/partners__slider_item.css);
 @import url(../blocks/partners/__slider/_logo/partners__slider_logo.css);
 @import url(../blocks/partners/__slider/_button/partners__slider_button.css);
